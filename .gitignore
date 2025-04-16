@@ -1,0 +1,36 @@
+# PlatformIO / Arduino
+.vscode/
+.idea/
+*.bin
+*.elf
+*.hex
+*.o
+*.a
+*.so
+*.d
+*.suo
+*.user
+*.userprefs
+*.pro.user
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# Backup-Dateien
+*.bak
+*.swp
+
+# Build-Ordner (PlatformIO)
+.build/
+lib_deps/
+
+# Nicht ignorieren:
+!ESP32_HUB75_Display_final_oeffentlich.ino  # Deine .ino-Datei soll nicht ignoriert werden
+!ESP32_HUB75_Display_final_oeffentlich.jpg  # Dein Foto soll nicht ignoriert werden
