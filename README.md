@@ -1,5 +1,7 @@
 # ESP32 HUB75 Display: Uhrzeit, PV-Leistung & Wetteranzeige
 
+![Projektansicht](ESP32_HUB75_Display_final_oeffentlich.jpg)
+
 Dieses Projekt zeigt Uhrzeit, aktuelle PV-Leistung, Netzeinspeisung/-bezug und ein Wettersymbol in Echtzeit auf einem HUB75 LED-Matrix-Display (64x32 Pixel) mit einem ESP32.
 
 ## 📷 Anzeige-Inhalte
