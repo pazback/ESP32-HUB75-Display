@@ -14,7 +14,7 @@ Dieses Projekt zeigt Uhrzeit, aktuelle PV-Leistung, Netzeinspeisung/-bezug und e
 ## 🧰 Verwendete Hardware
 
 - ESP32 (z. B. ESP32-WROOM-32)
-- HUB75 LED-Matrix Display (z. B. 64x32 Pixel, P4)
+- HUB75 LED-Matrix Display (z. B. 64x32 Pixel, P4, Bez. P4-2121-64*32-16S-HL1.2)
 - 5V Netzteil für Matrix (mind. 2–3 A empfohlen)
 
 ## 📦 Benötigte Bibliotheken
